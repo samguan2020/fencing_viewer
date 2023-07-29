@@ -1,3 +1,9 @@
+node v16.15.1
+npx create-next-app@12.1.6 ./ --ts
+npm create sanity@latest
+npm i next-pwa
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
